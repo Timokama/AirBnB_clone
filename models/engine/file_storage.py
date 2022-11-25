@@ -26,6 +26,7 @@ class FileStorage:
     def new(self, object):
         """sets in __objects the object with the key
         <object class name>.id
+        
         Args:
             object(obj): object to write
         """
