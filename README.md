@@ -124,5 +124,5 @@ In the engine folder:
 
 file_storage.py - contains file saving storage information
 
-Authors
+Author
 Timo Kamau - https://github.com/Timokama
